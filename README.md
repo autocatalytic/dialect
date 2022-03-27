@@ -1,4 +1,4 @@
-### Clone of Dialect's Solana Message Protocol https://github.com/dialectlabs/protocol
+### Clone of Dialect's Solana Messaging Protocol https://github.com/dialectlabs/protocol
 
 # Protocol & web3
 
