@@ -1,3 +1,5 @@
+# Clone of Dialect's Solana Message Protocol https://github.com/dialectlabs/protocol
+
 # Protocol & web3
 
 Dialect is a smart messaging protocol for dapp notifications and wallet-to-wallet messaging on the Solana Blockchain.
