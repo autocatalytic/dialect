@@ -8,7 +8,8 @@ use std::array;
 
 use anchor_lang::prelude::*;
 
-declare_id!("CeNUxGUsSeb5RuAGvaMLNx3tEZrpBwQqA7Gs99vMPCAb");
+//declare_id!("CeNUxGUsSeb5RuAGvaMLNx3tEZrpBwQqA7Gs99vMPCAb");
+declare_id!("3FELdcnggnaePucWiQWPJbBbVCG2spkTWjiAAQ432KKg");
 
 /// The dialect module contains all entrypoint functions for interacting with dialects.
 #[program]

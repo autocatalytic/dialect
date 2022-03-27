@@ -3,7 +3,7 @@ cluster = "localnet"
 wallet = "~/.config/solana/id.json"
 
 [programs.localnet]
-dialect = "2YFyZAg8rBtuvzFFiGvXwPHFAQJ2FXZoS7bYCKticpjk"
+dialect = "3FELdcnggnaePucWiQWPJbBbVCG2spkTWjiAAQ432KKg"
 
 [programs.devnet]
 dialect = "2YFyZAg8rBtuvzFFiGvXwPHFAQJ2FXZoS7bYCKticpjk"
