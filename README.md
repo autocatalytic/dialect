@@ -155,6 +155,8 @@ Run the example with:
 
 ```bash
 DIALECT_PUBLIC_KEY=<dialect-public-key> ts-node examples/index.ts
+
+On my mac, need path to ts-node: ./node_modules/.bin/ts-node examples/hello-world.ts
 ```
 
 It is fine to omit the `DIALECT_PUBLIC_KEY` environment variable, the example will generate one on the fly. However, if you're using this example as an integration test with other services, such as the monitoring, you'll need to set it to the public key corresponding to the private key in the notification service.
